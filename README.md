@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on coding projects, learning Unity and game development, completing TryHackMe tasks and making a Wordpress website with my friend..<br>
+🔭 I'm currently working on coding projects, learning Unity and game development, completing TryHackMe tasks and making a Wordpress website with my friend<br>
 
 👯 I’m looking to collaborate on any interesting Python projects related to data analysis, machine learning, or web development. I'm open to collaborating with developers of all skill levels.<br>
 
