@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my skills in Python and exploring various Python libraries and frameworks. I'm also working on some personal Python projects.<br>
+🔭 I'm currently working on coding projects, learning Unity and game development, completing TryHackMe tasks and making a Wordpress website with my friend..<br>
 
 👯 I’m looking to collaborate on any interesting Python projects related to data analysis, machine learning, or web development. I'm open to collaborating with developers of all skill levels.<br>
 
-🌱 I’m currently learning more Python<br>💬 Ask me about anything related to Python programming, data analysis, machine learning, or web development.<br>
+🌱 I’m currently learning hacking at TryHackMe<br>💬 Ask me about anything related to Python programming, data analysis, machine learning, game development, or web development.<br>
 
 ⚡ Fun fact I am good at python.
 
