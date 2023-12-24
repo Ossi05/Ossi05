@@ -3,7 +3,8 @@
 
 👯 I’m looking to collaborate on any interesting Python projects related to data analysis, machine learning, or web development. I'm open to collaborating with developers of all skill levels.<br>
 
-🌱 I’m currently learning hacking at TryHackMe<br>💬 Ask me about anything related to Python programming, data analysis, machine learning, game development, or web development.<br>
+🌱 I’m currently learning hacking at TryHackMe https://tryhackme.com/Ossi05/badges/adventofcyber5<br>
+💬 Ask me about anything related to Python programming, data analysis, machine learning, game development, or web development.<br>
 
 ⚡ Fun fact I am good at python.
 
