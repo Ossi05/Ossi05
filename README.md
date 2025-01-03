@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech enthusiast with a passion for web and game development. Skilled in Python, Node.js and C#, Founder of DataHavu, a website specializing in providing IT guides and solutions. Constantly learning and exploring new technologies.
+Tech enthusiast with a passion for web and game development. Skilled in Python, Node.js and C#. Founder of DataHavu, a website specializing in providing IT guides and solutions. Constantly learning and exploring new technologies.
 
 
 # 💻 Tech Stack:
